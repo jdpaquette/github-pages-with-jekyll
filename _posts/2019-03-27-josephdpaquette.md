@@ -1,3 +1,8 @@
+---
+title: "Day One"
+date: 2019-03-27
+---
+
 ## Blog Post Number 1
 
 I have spent the day learning different training about GitHub within their Learning Lab. 
